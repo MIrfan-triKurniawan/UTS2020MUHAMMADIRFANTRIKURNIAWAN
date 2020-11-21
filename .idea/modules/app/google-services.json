@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143481633108",
+    "firebase_url": "https://uts-muhammadirfantrikurniawan.firebaseio.com",
+    "project_id": "uts-muhammadirfantrikurniawan",
+    "storage_bucket": "uts-muhammadirfantrikurniawan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143481633108:android:d629ce148fb515a11c70c1",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7jm_1711500055_mirfantrikurniawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143481633108-hfajeb8jfpb9v5i31sb59aq7vrd9ssjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7jm_1711500055_mirfantrikurniawan",
+            "certificate_hash": "4777259dea142a299dd19ff17055f8d2565b08db"
+          }
+        },
+        {
+          "client_id": "143481633108-a5j4s3puhjbkdb33f16bkokdjs6cvt8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlALQQQjQRp1mUrs25zZxAdIq7PKC9M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143481633108-a5j4s3puhjbkdb33f16bkokdjs6cvt8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
